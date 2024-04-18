@@ -1,0 +1,7 @@
+export { default as handleProductCodeChange } from './handleProductCodeChange'
+export { default as handleProductNameChange } from './handleProductNameChange'
+export { default as handleProductColorChange } from './handleProductColorChange'
+export { default as handleProductHeightChange } from './handleProductHeightChange'
+export { default as handleProductWidthChange } from './handleProductWidthChange'
+export { default as handleProductWeightChange } from './handleProductWeightChange'
+export { default as addNewAttributeProperty } from './addNewAttributeProperty'
